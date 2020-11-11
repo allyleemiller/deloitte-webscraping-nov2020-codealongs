@@ -1,0 +1,5 @@
+"This is the remarkable paradox of mathematics," observed commentator John Tierney. "No matter how determinedly its practitioners ignore the world, they consistently produce the best tools for understanding it. 
+
+    The Greeks decide to study, for no good reason, a curve called an ellipse, and 2,000 years later astronomers discover that it describesthe way the planets move around the sun. Again, for no good reason, in 1 854 a German mathematician, Bernhard Riemann, wonders what would happen if he discards one of the hallowed postulates of Euclid's plane geometry. 
+
+    He builds a seemingly ridiculous assumption that it's not possible to draw two lines parallel to each other. His non-Euclidean geometry replaces Euclid's plane with a bizarre abstraction called curved space, and then, 60 years later, Einstein announces that this is the shape of the universe.”
